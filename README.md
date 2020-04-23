@@ -2,6 +2,9 @@
 This repository is dedicated to my public presentations and talks. For more sharing, please check out [my personal blog](https://andrewmmc.com).
 
 ## Talks
+#### 2020
+* [Data Visualization with Observable](./20200320-observable/README.md)
+
 #### 2019
 * [Why we build our UI library?](./20190301-ui-library/README.md) • Show Me The Code Meetup #9
 
@@ -10,9 +13,7 @@ This repository is dedicated to my public presentations and talks. For more shar
 * Fall in Love to Tech: Build Your Own App as an Entrepreneur • Lingnan University
 
 ## About Me
-![Andrew Mok](https://andrewmmc.com/static/8593b363329d438efb2f82e32a5b673e/753c3/profile.jpg)
-
-Hi! I'm Andrew, a frontend developer born and raised in Hong Kong. I'm currently working as a Software Engineer at [Lalamove](https://github.com/lalamove). 
+Hi! I'm Andrew, a developer born and raised in Hong Kong.
 
 I enjoy creating beautiful, simple and elegant things. I used to develop modern web applications under Agile methodology. I’ve mostly worked with JavaScript, React and PHP but also a little bit with Node.js and Golang. 
 
