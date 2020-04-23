@@ -3,7 +3,7 @@ This repository is dedicated to my public presentations and talks. For more shar
 
 ## Talks
 #### 2020
-* [Data Visualization with Observable](./20200320-observable/README.md)
+* [Data Visualization with Observable](./20200320-observable/index.pdf)
 
 #### 2019
 * [Why we build our UI library?](./20190301-ui-library/README.md) • Show Me The Code Meetup #9
